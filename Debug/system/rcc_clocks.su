@@ -1,0 +1,2 @@
+rcc_clocks.c:13:1:setup_sys_flash	8	static
+rcc_clocks.c:20:1:setup_sys_clocking	16	static

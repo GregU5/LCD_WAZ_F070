@@ -1,0 +1,7 @@
+lcd_driver.c:20:1:lcd_send_half	16	static
+lcd_driver.c:48:1:lcd_write	24	static
+lcd_driver.c:91:1:lcd_write_data	24	static
+lcd_driver.c:101:1:lcd_write_cmd	24	static
+lcd_driver.c:111:1:lcd_init	32	static
+lcd_driver.c:175:1:lcd_goto	24	static
+lcd_driver.c:197:1:lcd_show_text	16	static

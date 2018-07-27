@@ -1,0 +1,14 @@
+core_cm0.h:629:22:NVIC_EnableIRQ	16	static
+keypad.c:38:1:kp_scanner_tim_init	24	static
+keypad.c:56:1:kp_keypad_init	40	static
+keypad.c:100:1:kp_scan_keypad	32	static
+keypad.c:137:1:kp_get_raw_value	16	static
+keypad.c:188:1:kp_get_btn	24	static
+keypad.c:229:1:kp_gpio_set_bits	40	static
+keypad.c:243:1:kp_gpio_set_as_outputs	40	static
+keypad.c:258:1:kp_gpio_set_pullups	40	static
+keypad.c:273:1:kp_set_gpio_mask	32	static
+keypad.c:288:1:kp_gpio_toggle_bit	24	static
+keypad.c:298:1:kp_scanner_start	8	static
+keypad.c:304:1:kp_scanner_stop	8	static
+keypad.c:311:1:TIM7_IRQHandler	16	static

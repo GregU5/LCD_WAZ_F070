@@ -1,0 +1,6 @@
+core_cm0.h:688:22:NVIC_SetPriority	24	static
+core_cm0.h:769:26:SysTick_Config	16	static
+global_timers.c:13:1:init_timers	8	static
+global_timers.c:19:1:system_delay_ms	32	static
+global_timers.c:27:1:get_system_tick_ms	16	static
+global_timers.c:35:1:SysTick_Handler	8	static

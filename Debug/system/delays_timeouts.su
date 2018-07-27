@@ -1,0 +1,10 @@
+core_cm0.h:629:22:NVIC_EnableIRQ	16	static
+core_cm0.h:688:22:NVIC_SetPriority	24	static
+core_cm0.h:769:26:SysTick_Config	16	static
+delays_timeouts.c:14:1:init_timers	16	static
+delays_timeouts.c:34:1:delay_ms	24	static
+delays_timeouts.c:47:1:tick_timer_start	8	static
+delays_timeouts.c:54:1:tick_timer_stop	8	static
+delays_timeouts.c:60:1:get_tick_timer_ms	16	static
+delays_timeouts.c:70:1:SysTick_Handler	8	static
+delays_timeouts.c:78:1:TIM6_IRQHandler	8	static

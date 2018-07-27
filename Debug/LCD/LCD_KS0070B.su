@@ -1,0 +1,15 @@
+LCD_KS0070B.c:18:1:lcd_out_4bits	16	static
+LCD_KS0070B.c:46:1:lcd_write	16	static
+LCD_KS0070B.c:59:1:lcd_write_cmd	16	static
+LCD_KS0070B.c:67:1:lcd_write_data	16	static
+LCD_KS0070B.c:74:1:lcd_init	16	static
+LCD_KS0070B.c:115:1:lcd_goto	16	static
+LCD_KS0070B.c:137:1:lcd_show_char	16	static
+LCD_KS0070B.c:144:1:lcd_show_text	16	static
+LCD_KS0070B.c:153:1:lcd_show_int	32	static
+LCD_KS0070B.c:161:1:lcd_home	8	static
+LCD_KS0070B.c:169:1:lcd_clear	8	static
+LCD_KS0070B.c:177:1:lcd_cblink_on	8	static
+LCD_KS0070B.c:184:1:lcd_cblink_off	8	static
+LCD_KS0070B.c:191:1:lcd_cursor_on	8	static
+LCD_KS0070B.c:198:1:lcd_cursor_off	8	static
